@@ -1,0 +1,9 @@
+# Rust
+/target
+
+# RustRover
+.idea
+
+# Advent of Code
+/data/*.txt
+!/data/*.test.txt
