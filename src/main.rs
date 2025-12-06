@@ -2,7 +2,9 @@
 mod day01;
 #[allow(unused)]
 mod day02;
+#[allow(unused)]
 mod day03;
+mod day04;
 mod math;
 
 fn main() {
@@ -14,6 +16,9 @@ fn main() {
     // day02::part1();
     // day02::part2();
 
-    day03::part1();
-    day03::part2();
+    // day03::part1();
+    // day03::part2();
+
+    day04::part1();
+    day04::part2();
 }
