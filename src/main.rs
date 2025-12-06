@@ -8,7 +8,10 @@ mod day03;
 mod day04;
 #[allow(unused)]
 mod day05;
+#[allow(unused)]
+mod day06;
 mod math;
+mod util;
 
 fn main() {
     println!("Advent of Code 2025");
@@ -25,6 +28,9 @@ fn main() {
     // day04::part1();
     // day04::part2();
 
-    day05::part1();
-    day05::part2();
+    // day05::part1();
+    // day05::part2();
+
+    day06::part1();
+    day06::part2();
 }
